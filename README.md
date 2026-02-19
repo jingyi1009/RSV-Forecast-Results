@@ -1,1 +1,1 @@
-# This the the repo to store my forecasting results
+# This is the repo to store forecasting results of RSV dashboard
